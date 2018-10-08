@@ -2,6 +2,9 @@ package webserver.http;
 
 public class EmptyRequestException extends Exception {
 //nihao
+//ni no
+	
+	
 	/**
 	 * 
 	 */
