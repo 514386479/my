@@ -13,7 +13,9 @@ public class ClientHandler implements Runnable {
 	public ClientHandler(Socket socket) {
 	
 		this.socket = socket;
-	
+	   
+		
+		
 	}
        //处理业务的线程
 	@Override
